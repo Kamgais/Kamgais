@@ -13,6 +13,7 @@
 Hi there, I'm **Cyril Kamgais**, a **Software Engineering student** 🚀 from Germany.I'm a Web Lover building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code 🙍🏽‍♂️ [@CyrilKamgais](https://github.com/Kamgais)💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47j8rzcp1s80buloox4ggbo0d2fbgq8vs9mvyflz4y&rid=giphy.gif&ct=g"/>
 
 **Talking about Personal Stuffs:**
 
