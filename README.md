@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Cyril
 
 <a href="https://www.linkedin.com/in/cyril-kamgais-totso-a86491207/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Cyril's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/mehdimabrouki">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
@@ -16,14 +16,14 @@
 <br />
 <br />
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Cyril Kamgais**, a **Software Engineering student** 🚀 from Germany.  Currently, I'm a Web Lover building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code 🙍🏽‍♂️ [@CyrilKamgais](https://github.com/Kamgais)💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 👨🏽‍💻 I’m currently an Self Taught Web developer with working on personal projects;
+- 🌱 I’m currently learning Backend and Cloud Computing; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Frontend development, Backend development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
@@ -46,6 +46,6 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=kamgais&show_icons=true&hide_border=true)
+![Cyril's github stats](https://github-readme-stats.vercel.app/api?username=kamgais&show_icons=true&hide_border=true)
 
 ⭐️ From [Kamgais](https://github.com/Kamgais)
