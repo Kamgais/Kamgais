@@ -16,7 +16,7 @@ Hi there, I'm **Cyril Kamgais**, a **Software Engineering student** 🚀 from Ge
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an self taught Web developer with working on personal projects;
+- 👨🏽‍💻 I’m currently an self taught Web Developer with working on personal projects;
 - 🌱 I’m currently learning Backend and Cloud Computing; 
 - 🤔 My interests are with Photography, Frontend development, Backend development, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
