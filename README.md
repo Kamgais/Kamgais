@@ -1,4 +1,12 @@
-### Hey 👋, I'm Cyril
+### Hey 👋, I'm Cyril <svg width="100" height="150">
+  <polygon points="50,15 60,45 70,15 80,45 90,15 75,60 65,90 55,60"
+           fill="#006400" stroke="#006400" stroke-width="2" />
+  <circle cx="65" cy="30" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+  <circle cx="55" cy="40" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+  <circle cx="75" cy="40" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+  <circle cx="65" cy="50" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+</svg>
+
 
 <a href="https://www.linkedin.com/in/cyril-kamgais-totso-a86491207/">
   <img align="left" alt="Cyril's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
