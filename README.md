@@ -1,12 +1,4 @@
-### Hey 👋, I'm Cyril <svg width="100" height="150">
-  <polygon points="50,15 60,45 70,15 80,45 90,15 75,60 65,90 55,60"
-           fill="#006400" stroke="#006400" stroke-width="2" />
-  <circle cx="65" cy="30" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
-  <circle cx="55" cy="40" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
-  <circle cx="75" cy="40" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
-  <circle cx="65" cy="50" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
-</svg>
-
+### Hey 👋, I'm Cyril 
 
 <a href="https://www.linkedin.com/in/cyril-kamgais-totso-a86491207/">
   <img align="left" alt="Cyril's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -40,6 +32,7 @@ Hi there, I'm **Cyril Kamgais**, a **Software Engineering student** 🚀 from Ge
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactnative/reactnative.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
