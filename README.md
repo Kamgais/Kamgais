@@ -4,12 +4,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cyril%20Kamgais%20Totso&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20M.Sc.%20Computer%20Science&descSize=18&descAlignY=58&animation=fadeIn)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+architectures+%E2%98%81%EF%B8%8F;Full-Stack+development+with+Angular+%26+Spring+Boot;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;M.Sc.+Computer+Science+%E2%80%94+TH+Brandenburg+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+architectures+%E2%98%81%EF%B8%8F;Full-Stack+development+with+Angular+%26+Spring+Boot;AWS+%7C+Kubernetes+%7C+Docker+%7C+Terraform;YouTuber+%40devenirdeveloppeur+%F0%9F%8E%AC;M.Sc.+Computer+Science+%E2%80%94+TH+Brandenburg+2026)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-kamgais-totso-a86491207/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-v2-delta.vercel.app)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devenirdeveloppeur-bo1rx)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamgais)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrilkamgais1203@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/concept.pixels/)
@@ -31,6 +32,7 @@ name:       Cyril Kamgais Totso
 location:   Brandenburg an der Havel, Germany 🇩🇪
 degree:     M.Sc. Computer Science — TH Brandenburg (Feb 2026) 🎓
 role:       Software Developer @ Imilia Interactive Mobile Applications GmbH, Berlin
+youtube:    "@devenirdeveloppeur" — Dev tutorials & Cloud content 🎬
 focus:      [ Full-Stack Dev, Cloud Architecture, DevOps, AI/ML Integration ]
 languages:  [ French (native), German (C1/C2), English (B2/C1) ]
 contact:    cyrilkamgais1203@gmail.com
@@ -209,6 +211,20 @@ contact:    cyrilkamgais1203@gmail.com
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kamgais&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎬 YouTube Channel
+
+<div align="center">
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-%40devenirdeveloppeur-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devenirdeveloppeur-bo1rx)
+
+I create content in **French** about software development, cloud computing, and becoming a developer — sharing what I've learned through real projects and my journey from student to M.Sc. graduate.
+
+**👉 [Watch on YouTube](https://www.youtube.com/@devenirdeveloppeur-bo1rx/videos)**
 
 </div>
 
