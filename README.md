@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:1565c0&height=200&section=header&text=Cyril%20Kamgais%20Totso&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20M.Sc.%20Computer%20Science&descSize=16&descAlignY=65&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:1565c0&height=200&section=header&text=Cyril%20Kamgais%20Totso&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Devops%20Engineer%20%7C%20M.Sc.%20Computer%20Science&descSize=16&descAlignY=65&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyril-kamgais-totso-a86491207/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-v2-delta.vercel.app)
@@ -17,7 +17,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a **Full-Stack Developer & Cloud Architect** based in Brandenburg, Germany with **3+ years** of hands-on experience building scalable web applications and cloud-native systems from scratch — from frontend to infrastructure.
+I'm a **Full-Stack Developer & Devops Engineer** based in Brandenburg, Germany with **3+ years** of hands-on experience building scalable web applications and cloud-native systems from scratch — from frontend to infrastructure.
 
 - 🎓 **M.Sc. Computer Science** — TH Brandenburg, Feb 2026 · Focus: Cloud Computing & AWS
 - 🏆 **B.Sc. Computer Science** — TH Brandenburg, 2023 · Focus: Web Dev & Software Engineering
